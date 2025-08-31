@@ -1,0 +1,32 @@
+ 
+ # Ignore legacy Lab7 files
+Lab7/
+Lab7.atsln
+
+# Build output folders
+**/[Dd]ebug/
+**/[Rr]elease/
+
+# Compiled binaries and intermediates
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
+*.srec
+
+# Atmel Studio generated junk
+*.atsuo
+*.user
+*.aps
+*.bak
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
