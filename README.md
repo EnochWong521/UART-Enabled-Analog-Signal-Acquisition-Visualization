@@ -13,7 +13,7 @@ Captured data is streamed over **UART** for plotting or monitoring on a connecte
 ## Hardware & Tools
 - **Microcontroller**: AVR XMEGA
 - **Language**: C
-- **Tools**: Atmel Studio / avr-gcc, ModelSim (for UART data testing), Serial Plotter
+- **Tools**: Atmel Studio, Serial Plotter
 - **Interfaces**: ADC, Event System, USART
 
 ## How It Works
